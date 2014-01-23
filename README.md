@@ -1,4 +1,4 @@
 himem
 =====
 
-Old MS himem source I found to play with 
+The himem.sys source for old MSDOS I found on the internet.
